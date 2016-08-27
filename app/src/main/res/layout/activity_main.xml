@@ -33,5 +33,14 @@
         android:text="照片名："
         android:textColor="#ff0000"
         android:textSize="15dp" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="38dp"
+        android:text="去下一个界面"
+        android:textSize="20dp" />
 
 </LinearLayout>
